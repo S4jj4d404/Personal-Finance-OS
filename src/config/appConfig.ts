@@ -10,7 +10,7 @@ export const APP_CONFIG = {
   TAGLINE_BN: "আপনার ব্যক্তিগত ফাইন্যান্সিয়াল অপারেটিং সিস্টেম",
   
   // Centralized Download URLs as required by PRD Section 19 & 80
-  APP_DOWNLOAD_URL: "/downloads/personal-finance-os.apk",
+  APP_DOWNLOAD_URL: "https://github.com/S4jj4d404/Personal-Finance-OS/releases/download/Personal-Finance-OS/Personal.Finance.OS.apk",
   PLAY_STORE_URL: "https://play.google.com/store/apps/details?id=com.personalfinanceos.app",
   APP_STORE_URL: "https://apps.apple.com/app/personal-finance-os/id000000000",
   
